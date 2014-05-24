@@ -2,7 +2,7 @@
 
 #-------------------------------------------------------------------------------
 # Name:        SafeBlast
-# Purpose:     Program that runs a blast without crashing due to timeout/loss of connection
+# Purpose:     Runs a blast without crashing due to timeout/loss of connection
 #
 # Author:      Jack Simpson
 #
